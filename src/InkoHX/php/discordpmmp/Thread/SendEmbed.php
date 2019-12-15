@@ -54,8 +54,8 @@ class SendEmbed extends Thread
                         ]
                     ],
                     "footer" => [
-                        "text" => "Developed by InkoHX",
-                        "icon_url" => "https://cdn.discordapp.com/avatars/351992405831974915/f1cc00cd87b5b513f0658b3d202277fa.jpg?size=1024"
+                        "text" => "Developed by FCPE",
+                        "icon_url" => "https://discordavatars.com/avatars/122798580661485570.jpg"
                     ]
                 ]
             ]
